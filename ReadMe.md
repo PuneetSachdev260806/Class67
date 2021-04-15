@@ -27,3 +27,5 @@ git checkout [branch name]=to switch to a particular branch
 git branch [branch name]=to create a new branch
 git diff [branchA] [branchB]=to see the difference between the branches
 -- by default the branch is master
+----
+open source project=initiated by a developer or a group of developers and later made it open so that anyone can contribute to its developmnet and maintainance,such projects are made by collabrative efforts by several people. Eg-firefox webbrowser, Vlc media player, etc.
